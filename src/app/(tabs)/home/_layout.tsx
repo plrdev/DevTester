@@ -18,7 +18,7 @@ export default function StackLayout() {
           ),
         }}
       />
-      <Stack.Screen name="second" options={{ title: "Second Screen" }} />
+      <Stack.Screen name="second" options={{ title: "Countries" }} />
     </Stack>
   );
 }
